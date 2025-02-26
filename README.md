@@ -2,8 +2,8 @@
 
 | Título                        | URL                                                       | Descrição                        | Categoria               | Período | Linguagem |
 |-------------------------------|-----------------------------------------------------------|---------------------------------|--------------------------|---------|-----------|
-| Hello World                   | [Link](https://judge.beecrowd.com/pt/problems/view/1000)  | Aquecimento: exiba 'Hello World'| Iniciante                | W1      | JAVA     |
-| Extremamente Básico          | [Link](https://judge.beecrowd.com/pt/problems/view/1001)  | Soma simples                    | Iniciante                | W1      | JAVA     |
+| Hello World                   | [Link](https://judge.beecrowd.com/pt/problems/view/1000)  | Aquecimento: exiba 'Hello World'| [Iniciante](https://github.com/neresfabio/Desafios-Trendsplus/tree/main/hello/helloWorld)                | W1      | JAVA     |
+| Extremamente Básico          | [Link](https://judge.beecrowd.com/pt/problems/view/1001)  | Soma simples                    | [Iniciante](https://github.com/neresfabio/Desafios-Trendsplus/tree/main/ExtremamenteBasico)                | W1      | JAVA     |
 | Tempo de Jogo com Minutos    | [Link](https://judge.beecrowd.com/pt/problems/view/1047)  | Calcular duração                | Iniciante                | W1      | --    |
 | Matriz Quadrada I            | [Link](https://judge.beecrowd.com/pt/problems/view/1435)  | Construção de matriz            | Iniciante                | W1      | --     |
 | Matriz Quadrada II           | [Link](https://judge.beecrowd.com/pt/problems/view/1478)  | Construção de matriz            | Iniciante                | W1      | --     |
@@ -23,12 +23,12 @@
 | Valor Médio dos Produtos     | [Link](https://judge.beecrowd.com/pt/problems/view/2610)  | SQL                             | SQL                      | W2      | --     |
 | Filmes em promoção           | [Link](https://judge.beecrowd.com/pt/problems/view/2613)  | SQL                             | SQL                      | W2      | --     |
 | Ida à Feira                  | [Link](https://judge.beecrowd.com/pt/problems/view/1281)  | Aritmética                      | Estruturas e bibliotecas | W3      | --     |
-| Animal                       | [Link](https://judge.beecrowd.com/pt/problems/view/1049)  | Decisão                         | Iniciante                | W3      | JAVA   |
+| Animal                       | [Link](https://judge.beecrowd.com/pt/problems/view/1049)  | Decisão                         | [Iniciante](https://github.com/neresfabio/Desafios-Trendsplus/tree/main/animal)                | W3      | JAVA   |
 | Jornada nas Estrelas         | [Link](https://judge.beecrowd.com/pt/problems/view/1973)  | Decisão e repetição             | Iniciante                | W3      | --     |
 | Sequência de Sequência       | [Link](https://judge.beecrowd.com/pt/problems/view/2028)  | Sequências                      | Iniciante                | W3      | --     |
 | Motoboy                      | [Link](https://judge.beecrowd.com/pt/problems/view/1286)  | Algoritmos                      | Paradigmas               | W3      | --     |
-| Embaralhando                 | [Link](https://judge.beecrowd.com/pt/problems/view/1980)  | Anagrama                        | Ad-hoc                   | W4      | JAVA   |
-| Ordenação por Tamanho        | [Link](https://judge.beecrowd.com/pt/problems/view/1244)  | Ordenação                       | Estruturas e bibliotecas | W4      | JAVA   |
+| Embaralhando                 | [Link](https://judge.beecrowd.com/pt/problems/view/1980)  | Anagrama                        | [Ad-hoc](https://github.com/neresfabio/Desafios-Trendsplus/tree/main/embaralhando)                   | W4      | JAVA   |
+| Ordenação por Tamanho        | [Link](https://judge.beecrowd.com/pt/problems/view/1244)  | Ordenação                       | [Estruturas e bibliotecas](https://github.com/neresfabio/Desafios-Trendsplus/tree/main/ordenar_por_tamanho) | W4      | JAVA   |
 | O Fantástico Jaspion         | [Link](https://judge.beecrowd.com/pt/problems/view/1449)  | Hash                            | Estruturas e bibliotecas | W4      | --     |
 | Teclado Quebrado             | [Link](https://judge.beecrowd.com/pt/problems/view/1451)  | Deque                           | Estruturas e bibliotecas | W4      | --     |
 | Fly By Night                 | [Link](https://judge.beecrowd.com/pt/problems/view/2047)  | Grafos                          | Estruturas e bibliotecas | W4      | --     |
