@@ -4,7 +4,7 @@
 |-------------------------------|-----------------------------------------------------------|---------------------------------|--------------------------|---------|-----------|
 | Hello World                   | [Link](https://judge.beecrowd.com/pt/problems/view/1000)  | Aquecimento: exiba 'Hello World'| [Iniciante](https://github.com/neresfabio/Desafios-Trendsplus/tree/main/hello/helloWorld)                | W1      | JAVA     |
 | Extremamente Básico          | [Link](https://judge.beecrowd.com/pt/problems/view/1001)  | Soma simples                    | [Iniciante](https://github.com/neresfabio/Desafios-Trendsplus/tree/main/ExtremamenteBasico)                | W1      | JAVA     |
-| Tempo de Jogo com Minutos    | [Link](https://judge.beecrowd.com/pt/problems/view/1047)  | Calcular duração                | [Iniciante](https://github.com/neresfabio/Desafios-Trendsplus/tree/main/tempo_jogos_minutos)                | W1      | --    |
+| Tempo de Jogo com Minutos    | [Link](https://judge.beecrowd.com/pt/problems/view/1047)  | Calcular duração                | [Iniciante](https://github.com/neresfabio/Desafios-Trendsplus/tree/main/tempo_jogos_minutos)                | W1      | JAVA    |
 | Matriz Quadrada I            | [Link](https://judge.beecrowd.com/pt/problems/view/1435)  | Construção de matriz            | Iniciante                | W1      | --     |
 | Matriz Quadrada II           | [Link](https://judge.beecrowd.com/pt/problems/view/1478)  | Construção de matriz            | Iniciante                | W1      | --     |
 | Galopeira                     | [Link](https://judge.beecrowd.com/pt/problems/view/2147)  | Construção de matriz            | Iniciante                | W1      | --     |
